@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main (){
+    //ex7
     int m,billets;
     printf("ENTRE LA MONTANT\n");
     scanf("%d",&m);
