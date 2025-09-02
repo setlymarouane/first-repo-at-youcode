@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    //ex4
     float M,MA;
     printf("ENTRE la montant \n");
     scanf("%f",&M);
