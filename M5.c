@@ -2,6 +2,7 @@
 
 int main()
 {
+    //ex8
     float p,t,pa,rp1,rp2,rp3;
     printf("ENTRE la montant du pret\n");
     scanf("%f",&p);
