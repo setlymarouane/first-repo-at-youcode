@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main() {
+    // ex 3
     float r,v;
     
     printf("ENTRE LA RAYON \n");
