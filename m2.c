@@ -1,5 +1,6 @@
 #include<stdio.h>
 int main (){
+    //ex5
     int x,p;
     printf("ENTRE un nombre \n");
     scanf("%d",&x);
