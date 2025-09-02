@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// Ex 1
 int main() {
     printf("         *\n");
     printf("        *\n");
